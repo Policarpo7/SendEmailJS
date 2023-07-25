@@ -16,6 +16,6 @@ Principais Funcionalidades:
 
 **Atenção**
 
-Certifique-se de ter o Node.js instalado em sua máquina.
-Crie um novo diretório para o projeto e execute npm init para criar o arquivo package.json.
-Instale as dependências do projeto usando npm install express nodemailer body-parser.
+    Certifique-se de ter o Node.js instalado em sua máquina.
+    Crie um novo diretório para o projeto e execute npm init para criar o arquivo package.json.
+Instale as dependências do projeto usando **npm install express nodemailer body-parser**
